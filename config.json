@@ -2,12 +2,12 @@
 	"prefix": "multi", 
 	"defaultSessionName": "kurrxd", 
 	"zeksKey": "5O3lhAwvN7fTTNVpFb5GHLTpA2g",
-	"autoRead": true,
+	"autoRead": false,
 	"self": false, 
-	"maxLimit": 30,
-	"ownerList": ["628971447373@s.whatsapp.net", "6289637006225@s.whatsapp.net"],
+	"maxLimit": 1000,
+	"ownerList": ["6289501519478@s.whatsapp.net", "6288299504708@s.whatsapp.net"],
 	"apiUrl": "https://api.zeks.me",
-    "imgUrl": "https://i.postimg.cc/brVs2X6G/20220314-193244.jpg",
-	"pack": "Ezxyy"
-	"author": "BOTZ"
+    "imgUrl": "https://i.postimg.cc/mkcCQh25/20220428-103933.jpg",
+	"pack": "Nih Ngab"
+	"author": "ReyXD"
 }
